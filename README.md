@@ -13,8 +13,8 @@ Let's ping the website every 29 minutes for 0$. That way your application is alw
 3. 128 MB memory allocation if asked
 4. Add cloud watch event - Scheduler as follows
 
-[[https://github.com/pandawhocodes/heroku_app_pinger/blob/master/images/1.png|alt=cloudwatch 1]]
-[[https://github.com/pandawhocodes/heroku_app_pinger/blob/master/images/2.png|alt=cloudwatch 2]]
+![Alt text](/images/1.png?raw=true "Cloudwatch 1")
+![Alt text](/images/2.png?raw=true "Cloudwatch 1")
 
 5. Add a new file- lambda_handler.py
 6. Copy the file from this repository
